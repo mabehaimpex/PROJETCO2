@@ -3,6 +3,7 @@ numpy
 seaborn
 plotly
 streamlit
+scikit-learn
 yfinance
 pandas-datareader
 prophet
