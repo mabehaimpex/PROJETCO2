@@ -12,8 +12,8 @@ numpy
 pandas
 Pillow
 scipy
-streamlit
 Prophet
+sklearn
 geopandas
 #geoplot
 mapclassify
