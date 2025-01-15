@@ -19,7 +19,7 @@ def authenticate_gdrive():
    return GoogleDrive(gauth)
 
 
-df_france_2010_2023 = pd.read_excel("Classeur1.xlsx")
+df_france_2010_2023 = pd.read_csv("df_2010_2023_tronque.csv" ,sep=',', encoding='latin-1')
 
 
 st.sidebar.title("Sommaire")
