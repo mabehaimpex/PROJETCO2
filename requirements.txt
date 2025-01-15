@@ -8,12 +8,9 @@ yfinance
 pandas-datareader
 prophet
 matplotlib
-numpy
-pandas
 Pillow
 scipy
 Prophet
-sklearn
 geopandas
 #geoplot
 mapclassify
