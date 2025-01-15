@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
+scipy.stats
 plotly
 streamlit
 yfinance
